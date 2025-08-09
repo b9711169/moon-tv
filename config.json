@@ -85,9 +85,5 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "fm": {
-      "api": "http://hello.肥猫.com",
-      "name": "肥猫"
-    },
   }
 }
